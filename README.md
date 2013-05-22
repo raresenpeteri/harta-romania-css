@@ -2,6 +2,7 @@ Harta Romaniei - CSS
 ====================
 
 Harta Romaniei - doar CSS (no flash)
+
 Demo link: http://www.pixelalb.ro/harta-romaniei-css-demo/
 
 
